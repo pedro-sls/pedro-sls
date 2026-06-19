@@ -4,12 +4,6 @@
   Estudante de Engenharia de Software no IFPB, desenvolvedor em formação e curioso por produtos web, automações e integrações.
 </p>
 
-<p align="center">
-  <a href="https://github.com/pedro-sls">
-    <img src="https://komarev.com/ghpvc/?username=pedro-sls&style=flat-square&color=0e75b6" alt="Visualizações do perfil" />
-  </a>
-</p>
-
 ## Sobre mim
 
 Sou estudante de Engenharia de Software no IFPB e venho construindo minha base em desenvolvimento web, automações e soluções digitais. Gosto de conectar back-end, front-end e integrações para transformar ideias em aplicações úteis, organizadas e fáceis de evoluir.
