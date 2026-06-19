@@ -51,7 +51,6 @@ No momento, venho aprofundando minha base em desenvolvimento full stack, boas pr
 | [projects](https://github.com/pedro-sls/projects) | Portal de projetos do IFPB com Astro, React, TypeScript e Tailwind CSS. |
 | [beecrowd](https://github.com/pedro-sls/beecrowd) | Exercícios resolvidos em Python, com foco em lógica e prática constante. |
 | [desafio-bootcamp-dio-santander](https://github.com/pedro-sls/desafio-bootcamp-dio-santander) | Desafios do Bootcamp Santander 2025 em parceria com a DIO. |
-| [carrinho-flask](https://github.com/pedro-sls/carrinho-flask) | Prática de desenvolvimento web com Flask, HTML e estrutura de aplicação. |
 
 ## GitHub em números
 
