@@ -4,6 +4,15 @@
   Estudante de Engenharia de Software no IFPB, desenvolvedor em formação e curioso por produtos web, automações e integrações.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-sls/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/eusales07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
 ## Sobre mim
 
 Sou estudante de Engenharia de Software no IFPB e venho construindo minha base em desenvolvimento web, automações e soluções digitais. Gosto de conectar back-end, front-end e integrações para transformar ideias em aplicações úteis, organizadas e fáceis de evoluir.
