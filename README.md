@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://pedro-sales.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
   <a href="https://www.linkedin.com/in/pedro-sls/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -43,6 +46,12 @@ No momento, venho aprofundando minha base em desenvolvimento full stack, boas pr
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
 </p>
+
+## Portfólio
+
+Meu portfólio está no ar com uma apresentação mais completa sobre minha trajetória, stack, processo de desenvolvimento e próximos projetos.
+
+Acesse: [pedro-sales.vercel.app](https://pedro-sales.vercel.app)
 
 ## Projetos em destaque
 
