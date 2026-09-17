@@ -63,11 +63,9 @@ Acesse: [pedro-sales.vercel.app](https://pedro-sales.vercel.app)
 
 ## GitHub em números
 
-Os cards abaixo usam dados públicos do GitHub e são atualizados automaticamente.
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedro-sls&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub de Pedro Sales" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-sls&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas por Pedro Sales" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro-sls&theme=tokyonight" alt="Estatísticas do GitHub de Pedro Sales" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedro-sls&theme=tokyonight" alt="Linguagens mais usadas por Pedro Sales" />
 </div>
 
 ## Em evolução
